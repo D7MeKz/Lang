@@ -5,7 +5,7 @@
 - Express는 Node.js의 프레임워크이다. 
     - Router 코드와 Server 코드 파일은 분리시키자.
     - Express [참고](https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=scw0531&logNo=221137602896)
-- Node.js의 개념 [참고](https://hanamon.kr/nodejs-%EA%B0%9C%EB%85%90-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0/)를  참고. 
+- Node.js의 개념 [참고](https://hanamon.kr/nodejs-%EA%B0%9C%EB%85%90-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0/)
 - EJS 템플릿 엔진 
     - 템플릿 엔진: 템플릿을 읽어 엔진의 문법과 설정에 따라 HTML 형식으로 변환 
     - `<% javascript code %>`
