@@ -10,6 +10,10 @@ public:
     MyString(char c);
     MyString(const char* c); // 문자열로부터 
     MyString(const MyString& c); // 복사 생성자 
+    
+    // explicit: 명시적
+    // 암시적 변환을 수행하지 못하도록 막음 
+    explicit MyString(int capacity); 
     ~MyString();
 
     int length() const;
@@ -49,6 +53,11 @@ MyString::MyString(const MyString& c)
         this->string_content[i] = c.string_content[i];
     }
 
+}
+
+explicit MyString::MyString(int capacity)
+{
+    this->memory_capacity = capacity; 
 }
 
 MyString::~MyString()
@@ -101,9 +110,7 @@ int MyString::capacity() const
 
 int main()
 {
-    MyString str1("D7MeKz!!");
-    MyString str2(str1);
-
-    str1.println();
-    str2.println();
+    MyString s1 = 5 ; // MyString(5) 암시적으로 변환 -> explicit 선언했기 때문에 컴파일 에러 
+    MyString s2(5); // 명시적으로 선언했기 때문에 오류는 아니다. 
+    MyString a = "abc"; // MyString("abc")로 암시적 변환이 발생 
 }
