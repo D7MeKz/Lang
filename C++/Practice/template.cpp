@@ -1,2 +1,47 @@
 #include<iostream>
 
+// 나만의 std::array 구현
+template<typename T, unsigned int N>
+class Array
+{
+    T data[N];
+public:
+    Array (T(&arr)[N])// 배열 생성잘 할당 
+    {
+        for(int i = 0 ; i < N; i++)
+        {
+            data[i] = arr[i];
+        }
+    }
+
+    T* get_array(){return data;}
+
+    unsigned int size() {return N;}
+
+    void print_all()
+    {
+        for(int i = 0 ; i < N ;i++)
+        {
+            std::cout << data[i] << ",";
+        }
+        std::cout << std::endl;
+    }
+};
+
+template<int N>
+struct Int{
+    // static은 클래스가 생성한 객체들 사이에서 공유되는 값이다.
+    // const는 값이 변화하지 않는다.
+    // 즉, 이 값은 무조건  클래스거다!! 라는 것을 알려준다. 
+    static const int num = N;
+}
+
+int main()
+{
+    int arr[3] = {1, 2, 3};
+
+    // T data -> int data
+    Array<int, 3> arr_w(arr);
+
+    arr_w.print_all();
+}
