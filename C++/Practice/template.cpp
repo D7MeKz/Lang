@@ -36,12 +36,19 @@ struct Int{
     static const int num = N;
 }
 
+template<typename T, typename U>
+struct add{
+    typedef Int<T::num + U::num> result;
+}
+
 int main()
 {
+    typedef add<one, two>::result three;
     int arr[3] = {1, 2, 3};
 
     // T data -> int data
     Array<int, 3> arr_w(arr);
-
     arr_w.print_all();
+
+    std::cout << "Addtion result: "<<three::num <<std::endl;
 }
