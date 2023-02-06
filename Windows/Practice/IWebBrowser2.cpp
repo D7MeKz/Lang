@@ -1,1 +1,0 @@
-// https://cpp.hotexamples.com/examples/-/IWebBrowser2/-/cpp-iwebbrowser2-class-examples.html
