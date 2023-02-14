@@ -1,13 +1,12 @@
 {
     "configurations": [
         {
-            "name": "Win32",
+            "name": "windows-msvc-x64",
             "includePath": [
-                "${workspaceFolder}/**",
-                "${vcpkgRoot}/x64-windows/include",
-                "${vcpkgRoot}/x86-windows/include"
+                "${workspaceFolder}/**"
             ],
             "defines": [
+                "DEBUG",
                 "_DEBUG",
                 "UNICODE",
                 "_UNICODE"
