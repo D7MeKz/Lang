@@ -15,6 +15,8 @@ func main() {
 
 	fmt.Print("B array\n")
 	// range는 인덱스와 원솟값을 출력
+	// 변수를 쓰지 않으면 컴파일 에러가 발생하므로,
+	// 인덱스를 쓰지 않는다면 _로 무효화시킨다.
 	for i, v := range b {
 		fmt.Println(i, v)
 	}
