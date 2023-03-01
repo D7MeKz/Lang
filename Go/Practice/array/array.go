@@ -20,4 +20,7 @@ func main() {
 	for i, v := range b {
 		fmt.Println(i, v)
 	}
+
+	var arr1 = [5]int32{1, 2, 3, 4, 5}
+	fmt.Print(arr1)
 }
