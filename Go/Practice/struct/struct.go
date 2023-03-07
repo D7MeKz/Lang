@@ -30,7 +30,7 @@ func main() {
 	house.Address = "Gwan.."
 	house.Size = 5
 	house.Price = 2.00
-	house.Type = "H.."
+	house.Type = "Hi.."
 
 	var house2 House = House{"G", 2, 3.12, "H"}
 	fmt.Println("House address: ", house2.Address)
