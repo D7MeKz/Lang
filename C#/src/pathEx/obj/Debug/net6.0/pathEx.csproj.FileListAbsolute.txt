@@ -1,0 +1,15 @@
+A:\Project\Lang\C#\src\pathEx\obj\Debug\net6.0\pathEx.csproj.AssemblyReference.cache
+A:\Project\Lang\C#\src\pathEx\obj\Debug\net6.0\pathEx.GeneratedMSBuildEditorConfig.editorconfig
+A:\Project\Lang\C#\src\pathEx\obj\Debug\net6.0\pathEx.AssemblyInfoInputs.cache
+A:\Project\Lang\C#\src\pathEx\obj\Debug\net6.0\pathEx.AssemblyInfo.cs
+A:\Project\Lang\C#\src\pathEx\obj\Debug\net6.0\pathEx.csproj.CoreCompileInputs.cache
+A:\Project\Lang\C#\src\pathEx\bin\Debug\net6.0\pathEx.exe
+A:\Project\Lang\C#\src\pathEx\bin\Debug\net6.0\pathEx.deps.json
+A:\Project\Lang\C#\src\pathEx\bin\Debug\net6.0\pathEx.runtimeconfig.json
+A:\Project\Lang\C#\src\pathEx\bin\Debug\net6.0\pathEx.dll
+A:\Project\Lang\C#\src\pathEx\bin\Debug\net6.0\pathEx.pdb
+A:\Project\Lang\C#\src\pathEx\obj\Debug\net6.0\pathEx.dll
+A:\Project\Lang\C#\src\pathEx\obj\Debug\net6.0\refint\pathEx.dll
+A:\Project\Lang\C#\src\pathEx\obj\Debug\net6.0\pathEx.pdb
+A:\Project\Lang\C#\src\pathEx\obj\Debug\net6.0\pathEx.genruntimeconfig.cache
+A:\Project\Lang\C#\src\pathEx\obj\Debug\net6.0\ref\pathEx.dll

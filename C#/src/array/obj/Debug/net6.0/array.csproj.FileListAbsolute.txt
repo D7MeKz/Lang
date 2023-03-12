@@ -1,0 +1,15 @@
+A:\Project\Lang\C#\Practice\array\obj\Debug\net6.0\array.csproj.AssemblyReference.cache
+A:\Project\Lang\C#\Practice\array\obj\Debug\net6.0\array.GeneratedMSBuildEditorConfig.editorconfig
+A:\Project\Lang\C#\Practice\array\obj\Debug\net6.0\array.AssemblyInfoInputs.cache
+A:\Project\Lang\C#\Practice\array\obj\Debug\net6.0\array.AssemblyInfo.cs
+A:\Project\Lang\C#\Practice\array\obj\Debug\net6.0\array.csproj.CoreCompileInputs.cache
+A:\Project\Lang\C#\Practice\array\bin\Debug\net6.0\array.exe
+A:\Project\Lang\C#\Practice\array\bin\Debug\net6.0\array.deps.json
+A:\Project\Lang\C#\Practice\array\bin\Debug\net6.0\array.runtimeconfig.json
+A:\Project\Lang\C#\Practice\array\bin\Debug\net6.0\array.dll
+A:\Project\Lang\C#\Practice\array\bin\Debug\net6.0\array.pdb
+A:\Project\Lang\C#\Practice\array\obj\Debug\net6.0\array.dll
+A:\Project\Lang\C#\Practice\array\obj\Debug\net6.0\refint\array.dll
+A:\Project\Lang\C#\Practice\array\obj\Debug\net6.0\array.pdb
+A:\Project\Lang\C#\Practice\array\obj\Debug\net6.0\array.genruntimeconfig.cache
+A:\Project\Lang\C#\Practice\array\obj\Debug\net6.0\ref\array.dll
