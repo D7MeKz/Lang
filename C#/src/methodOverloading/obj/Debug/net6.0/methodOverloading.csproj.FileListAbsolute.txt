@@ -1,0 +1,5 @@
+A:\Project\Lang\C#\src\methodOverloading\obj\Debug\net6.0\methodOverloading.csproj.AssemblyReference.cache
+A:\Project\Lang\C#\src\methodOverloading\obj\Debug\net6.0\methodOverloading.GeneratedMSBuildEditorConfig.editorconfig
+A:\Project\Lang\C#\src\methodOverloading\obj\Debug\net6.0\methodOverloading.AssemblyInfoInputs.cache
+A:\Project\Lang\C#\src\methodOverloading\obj\Debug\net6.0\methodOverloading.AssemblyInfo.cs
+A:\Project\Lang\C#\src\methodOverloading\obj\Debug\net6.0\methodOverloading.csproj.CoreCompileInputs.cache
