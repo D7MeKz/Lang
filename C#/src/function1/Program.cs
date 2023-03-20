@@ -6,6 +6,7 @@
 // 잘 판단하고 사용해야한다. 
 using static System;
 using nickname = System.Timer.Timer; // 별칭 사용 가능 
+
 public class FunctionExample01
 {
     static string GetUserInput(string prompt)
