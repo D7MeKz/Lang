@@ -1,0 +1,15 @@
+C:\Users\D7MeKz\Desktop\Lang\C#\src\datastorage\obj\Debug\net6.0\datastorage.csproj.AssemblyReference.cache
+C:\Users\D7MeKz\Desktop\Lang\C#\src\datastorage\obj\Debug\net6.0\datastorage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\D7MeKz\Desktop\Lang\C#\src\datastorage\obj\Debug\net6.0\datastorage.AssemblyInfoInputs.cache
+C:\Users\D7MeKz\Desktop\Lang\C#\src\datastorage\obj\Debug\net6.0\datastorage.AssemblyInfo.cs
+C:\Users\D7MeKz\Desktop\Lang\C#\src\datastorage\obj\Debug\net6.0\datastorage.csproj.CoreCompileInputs.cache
+C:\Users\D7MeKz\Desktop\Lang\C#\src\datastorage\bin\Debug\net6.0\datastorage.exe
+C:\Users\D7MeKz\Desktop\Lang\C#\src\datastorage\bin\Debug\net6.0\datastorage.deps.json
+C:\Users\D7MeKz\Desktop\Lang\C#\src\datastorage\bin\Debug\net6.0\datastorage.runtimeconfig.json
+C:\Users\D7MeKz\Desktop\Lang\C#\src\datastorage\bin\Debug\net6.0\datastorage.dll
+C:\Users\D7MeKz\Desktop\Lang\C#\src\datastorage\bin\Debug\net6.0\datastorage.pdb
+C:\Users\D7MeKz\Desktop\Lang\C#\src\datastorage\obj\Debug\net6.0\datastorage.dll
+C:\Users\D7MeKz\Desktop\Lang\C#\src\datastorage\obj\Debug\net6.0\refint\datastorage.dll
+C:\Users\D7MeKz\Desktop\Lang\C#\src\datastorage\obj\Debug\net6.0\datastorage.pdb
+C:\Users\D7MeKz\Desktop\Lang\C#\src\datastorage\obj\Debug\net6.0\datastorage.genruntimeconfig.cache
+C:\Users\D7MeKz\Desktop\Lang\C#\src\datastorage\obj\Debug\net6.0\ref\datastorage.dll
