@@ -52,15 +52,21 @@ class Employee
 // function parameter sample 
 class Sample
 {
+    public static int Id; // Id가 모든 개체와 연결될 수 있다.
     private string _SampleString;
     private int _SampleInt;
-    
+    private string _SampleName;   
     // 읽기 전용 자동 구현 속성
     public int[,,] intArry {get;} = new int[2,3,4];
     
     // Getter, Seetter
+    public Sample()
+    {
+        Id++;
+    }
     public string SampleString
     {
+        
         get
         {
             return _SampleString;
@@ -78,6 +84,13 @@ class Sample
         // 더 간단하게 표현할 수 있다. 
         get => _SampleInt;
         set => _SampleInt = value;
+    }
+
+    public string SampleName
+    {
+        // null을 허용하지 않는다. 
+        get => _SampleName!;
+        set => _SampleInt = value ?? throw new ArgumentException(nameof(value));
     }
 
 }
