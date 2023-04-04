@@ -5,6 +5,7 @@ import (
 	"strings"
 )
 
+// 효율적인 메모리 합산을 하기 위해서는 strings.builder를 사용해야 한다. 
 func ToUpper(str string) string{
 	var builder strings.Builder
 	for _,v  rnage str{
