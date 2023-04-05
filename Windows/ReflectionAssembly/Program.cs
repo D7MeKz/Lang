@@ -4,7 +4,7 @@ using System.Security.Permissions;
 
 // @link https://learn.microsoft.com/en-us/dotnet/api/system.reflection.assembly?view=net-7.0
 // Obtain the currently executing assembly, invoking one of the type's ow mehods with late binding.
-// 쉽게 말해 늦게 파일을 binding 한 실행파일이라고 보면 된다. 
+// 쉽게 말해 늦게 파일을 binding 한 실행 가능한 파일(dll, exe)을 생성한다고 보면 된다. 
 public class ReflectionAssembly
 {
     private int factor; 
