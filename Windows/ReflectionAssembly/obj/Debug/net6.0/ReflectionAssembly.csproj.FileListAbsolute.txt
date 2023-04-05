@@ -1,0 +1,15 @@
+C:\Users\D7MeKz\Desktop\Lang\Windows\ReflectionAssembly\obj\Debug\net6.0\ReflectionAssembly.csproj.AssemblyReference.cache
+C:\Users\D7MeKz\Desktop\Lang\Windows\ReflectionAssembly\obj\Debug\net6.0\ReflectionAssembly.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\D7MeKz\Desktop\Lang\Windows\ReflectionAssembly\obj\Debug\net6.0\ReflectionAssembly.AssemblyInfoInputs.cache
+C:\Users\D7MeKz\Desktop\Lang\Windows\ReflectionAssembly\obj\Debug\net6.0\ReflectionAssembly.AssemblyInfo.cs
+C:\Users\D7MeKz\Desktop\Lang\Windows\ReflectionAssembly\obj\Debug\net6.0\ReflectionAssembly.csproj.CoreCompileInputs.cache
+C:\Users\D7MeKz\Desktop\Lang\Windows\ReflectionAssembly\bin\Debug\net6.0\ReflectionAssembly.exe
+C:\Users\D7MeKz\Desktop\Lang\Windows\ReflectionAssembly\bin\Debug\net6.0\ReflectionAssembly.deps.json
+C:\Users\D7MeKz\Desktop\Lang\Windows\ReflectionAssembly\bin\Debug\net6.0\ReflectionAssembly.runtimeconfig.json
+C:\Users\D7MeKz\Desktop\Lang\Windows\ReflectionAssembly\bin\Debug\net6.0\ReflectionAssembly.dll
+C:\Users\D7MeKz\Desktop\Lang\Windows\ReflectionAssembly\bin\Debug\net6.0\ReflectionAssembly.pdb
+C:\Users\D7MeKz\Desktop\Lang\Windows\ReflectionAssembly\obj\Debug\net6.0\ReflectionAssembly.dll
+C:\Users\D7MeKz\Desktop\Lang\Windows\ReflectionAssembly\obj\Debug\net6.0\refint\ReflectionAssembly.dll
+C:\Users\D7MeKz\Desktop\Lang\Windows\ReflectionAssembly\obj\Debug\net6.0\ReflectionAssembly.pdb
+C:\Users\D7MeKz\Desktop\Lang\Windows\ReflectionAssembly\obj\Debug\net6.0\ReflectionAssembly.genruntimeconfig.cache
+C:\Users\D7MeKz\Desktop\Lang\Windows\ReflectionAssembly\obj\Debug\net6.0\ref\ReflectionAssembly.dll
