@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>Hello ToDoList!</title>
+
+        <script>
+            // 계층 구조를 잘 파악하자.
+            function addItem(){
+                let todo = document.getElementById("item");
+                let list = document.getElementById("todolist"); // ul 
+                let listitem = document.createElement("li");
+                let xbtn = document.createElement("button");
+
+                // Event 
+                xbtn.onclick = function(e){
+                    // ul를 통해 li 제거  
+                    let pnode = e.target.parentNode;
+                    list.removeChild(pnode); 
+                }
+                listitem.innerText = todo.value;
+                listitem.appendChild(xbtn);
+                list.appendChild(listitem);
+                todo.value = "";
+                todo.focus();
+            }
+        </script>
+    </head>
+    <body>
+        <div id="container">
+            <h2>My To Do List</h2>
+            <input id="item" type="text" id="input-group">
+            <button id="submit-btn" onclick="addItem()">할일 추가</button>
+        </div>
+        <hr>
+        <ul id="todolist"></ul>
+    </body>
+</html>
