@@ -15,6 +15,6 @@
   <h3>This is second page!! <%=new Date()%></h3>
     <p>My id is <%=request.getParameter("id")%></p>
     <p>My name is <%=request.getParameter("name")%></p>
-    <p>Tody is <%=request.getParameter("date")%></p>
+    <p>Today is <%=request.getParameter("date")%></p>
 </body>
 </html>

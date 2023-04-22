@@ -1,4 +1,4 @@
-package com.example.jsp;
+package com.example.jsp.javabean;
 
 public class MemberBean  implements java.io.Serializable{
     private int id = 5;
