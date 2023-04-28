@@ -1,0 +1,5 @@
+C:\Users\D7MeKz\Desktop\Lang\C#\src\nested_class\obj\Debug\net6.0\nested_class.csproj.AssemblyReference.cache
+C:\Users\D7MeKz\Desktop\Lang\C#\src\nested_class\obj\Debug\net6.0\nested_class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\D7MeKz\Desktop\Lang\C#\src\nested_class\obj\Debug\net6.0\nested_class.AssemblyInfoInputs.cache
+C:\Users\D7MeKz\Desktop\Lang\C#\src\nested_class\obj\Debug\net6.0\nested_class.AssemblyInfo.cs
+C:\Users\D7MeKz\Desktop\Lang\C#\src\nested_class\obj\Debug\net6.0\nested_class.csproj.CoreCompileInputs.cache
