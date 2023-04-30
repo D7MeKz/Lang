@@ -3,3 +3,13 @@ C:\Users\D7MeKz\Desktop\Lang\C#\src\child_process\obj\Debug\net6.0\child_process
 C:\Users\D7MeKz\Desktop\Lang\C#\src\child_process\obj\Debug\net6.0\child_process.AssemblyInfoInputs.cache
 C:\Users\D7MeKz\Desktop\Lang\C#\src\child_process\obj\Debug\net6.0\child_process.AssemblyInfo.cs
 C:\Users\D7MeKz\Desktop\Lang\C#\src\child_process\obj\Debug\net6.0\child_process.csproj.CoreCompileInputs.cache
+C:\Users\D7MeKz\Desktop\Lang\C#\src\child_process\bin\Debug\net6.0\child_process.exe
+C:\Users\D7MeKz\Desktop\Lang\C#\src\child_process\bin\Debug\net6.0\child_process.deps.json
+C:\Users\D7MeKz\Desktop\Lang\C#\src\child_process\bin\Debug\net6.0\child_process.runtimeconfig.json
+C:\Users\D7MeKz\Desktop\Lang\C#\src\child_process\bin\Debug\net6.0\child_process.dll
+C:\Users\D7MeKz\Desktop\Lang\C#\src\child_process\bin\Debug\net6.0\child_process.pdb
+C:\Users\D7MeKz\Desktop\Lang\C#\src\child_process\obj\Debug\net6.0\child_process.dll
+C:\Users\D7MeKz\Desktop\Lang\C#\src\child_process\obj\Debug\net6.0\refint\child_process.dll
+C:\Users\D7MeKz\Desktop\Lang\C#\src\child_process\obj\Debug\net6.0\child_process.pdb
+C:\Users\D7MeKz\Desktop\Lang\C#\src\child_process\obj\Debug\net6.0\child_process.genruntimeconfig.cache
+C:\Users\D7MeKz\Desktop\Lang\C#\src\child_process\obj\Debug\net6.0\ref\child_process.dll

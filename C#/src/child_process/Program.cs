@@ -1,7 +1,7 @@
 ﻿using System;
 public class PdaItem
 {
-    [DisallowNull]
+    // [DisallowNull]
     public string Name{get; set;}
     public DateTime LastUpdated {get; set;}
 
@@ -19,6 +19,6 @@ public class Program
     {
         Contact contact = new Contact();
         contact.Name = "Inigo Montoya";
-        System.console.WriteLine(contact.Name);
+        System.Console.WriteLine(contact.Name);
     }
 }
