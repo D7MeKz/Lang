@@ -1,0 +1,5 @@
+C:\Users\D7MeKz\Desktop\Lang\C#\src\child_process\obj\Debug\net6.0\child_process.csproj.AssemblyReference.cache
+C:\Users\D7MeKz\Desktop\Lang\C#\src\child_process\obj\Debug\net6.0\child_process.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\D7MeKz\Desktop\Lang\C#\src\child_process\obj\Debug\net6.0\child_process.AssemblyInfoInputs.cache
+C:\Users\D7MeKz\Desktop\Lang\C#\src\child_process\obj\Debug\net6.0\child_process.AssemblyInfo.cs
+C:\Users\D7MeKz\Desktop\Lang\C#\src\child_process\obj\Debug\net6.0\child_process.csproj.CoreCompileInputs.cache
