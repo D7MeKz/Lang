@@ -1,5 +1,9 @@
 #include "SpreadsheetCell.h"
 
+SpreadSheetCell::SpreadSheetCell(double inValue)
+{
+	setValue(inValue);
+}
 void SpreadSheetCell::setValue(double inValue)
 {
 	mValue = inValue;

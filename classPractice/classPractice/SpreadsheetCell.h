@@ -4,6 +4,7 @@
 class SpreadSheetCell
 {
 public:
+	SpreadSheetCell(double inValue);
 	void setValue(double inValue);
 	double getValue() const;
 
