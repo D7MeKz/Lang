@@ -43,7 +43,7 @@ function Left3(props){
 }
 
 
-
+// If you didn't use redux, you should get a value or function with props.. 
 function Right1(props){
   return (
     <div>
