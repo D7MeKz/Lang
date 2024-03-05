@@ -1,6 +1,8 @@
 package main
 
-import "testing"
+import (
+	"testing"
+)
 
 func TestSquare(t *testing.T) {
 	rst := square(9)
